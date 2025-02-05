@@ -1,0 +1,15 @@
+{
+  "name": "mylittlefarmland",
+  "version": "1.0.0",
+  "description": "A farming game reminiscent of Farmville",
+  "license": "MIT",
+  "author": "ChrisMC",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
