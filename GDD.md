@@ -30,3 +30,8 @@
 - **Tools**:
   - **Art**: MS *pain*t
   - **Code**: Any text editor, most probably VS Code
+- **Storage**: LocalStorage
+- **Host**: GitHub pages, front-end only
+
+## Link
+https://slothyslob.github.io/MyLittleFarmland/public/
